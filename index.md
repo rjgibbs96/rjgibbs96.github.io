@@ -3,7 +3,7 @@ title: Ryan Gibbs
 description: "Ryan Gibbs' Website"
 ---
 
-![some text](https://rjgibbs96.github.io/images/banner.jpg)
+![](https://rjgibbs96.github.io/images/banner.jpg)
 
 <br />
 
@@ -35,8 +35,8 @@ This website was formally built in the spring of 2017, but the style of the site
 <br />
 
 Some bullet points:
-* bullet 1
-* bullet 2
+* [Full Link](http://www.google.com)
+* [Local Link](mypage.md)
 
 ### Contact Me
 
