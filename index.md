@@ -3,7 +3,7 @@ title: Ryan Gibbs
 description: "Ryan Gibbs' Website"
 ---
 
-![](/images/banner.jpg)
+![some text](https://rjgibbs96.github.io/images/banner.jpg)
 
 <br />
 
