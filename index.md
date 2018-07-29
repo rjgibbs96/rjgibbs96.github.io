@@ -1,10 +1,9 @@
 ---
 title: Ryan Gibbs
 description: "Ryan Gibbs' Website"
-
-image:
-  feature: /images/banner.jpg
 ---
+
+![](/images/banner.jpg)
 
 <br />
 
