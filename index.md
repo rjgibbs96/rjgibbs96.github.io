@@ -17,7 +17,7 @@ description: "Ryan Gibbs' Website"
 
 ### Who am I
 
-Text. 
+Text.
 
 <br />
 
@@ -27,10 +27,21 @@ More text.
 
 More text.
 
+### HTML Test
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
 
 ### About This Site
 
-This website was formally built in the spring of 2017, but the style of the site has been changed several times. 
+This website was formally built in the spring of 2017, but the style of the site has been changed several times.
 
 <br />
 
@@ -41,4 +52,3 @@ Some bullet points:
 ### Contact Me
 
 The best way to reach me is [Email](mailto:rgibbs@g.hmc.edu).
-
