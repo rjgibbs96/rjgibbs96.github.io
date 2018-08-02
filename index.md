@@ -76,9 +76,9 @@ body {
 <body>
 
 <div class="sidenav">
-  <a href="mypage.md">My Page</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
+  <a href="index.md">About Me</a>
+  <a href="resume.md">My Resume</a>
+  <a href="projects.md">My Projects</a>
   <a href="#contact">Contact</a>
 </div>
 
