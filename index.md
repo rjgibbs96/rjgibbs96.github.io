@@ -77,8 +77,8 @@ body {
 
 <div class="sidenav">
   <a href="https://rjgibbs96.github.io">About Me</a>
-  <a href="mypage.md">My Resume</a>
-  <a href="projects.md">My Projects</a>
+  <a href="https://rjgibbs96.github.io/mypage.html">My Resume</a>
+  <a href="https://rjgibbs96.github.io/projects.html">My Projects</a>
   <a href="#contact">Contact</a>
 </div>
 
